@@ -8,5 +8,6 @@ HTC Vive Pro
 Oculus/Meta Rift S
 Oculus/Meta Quest 1 and 2 (through Oculus Link)_
 
-Besides the given pdf, it is recommended (not required) to use the accompanying office environment, hosted at https://github.com/utwente-interaction-lab/unity-assets/tree/master/Office
+Besides the given pdf, it is recommended (not required) to use the accompanying office environment, hosted at https://github.com/utwente-interaction-lab/unity-assets/tree/master/Office.
 The manual will guide you through writing the scripts on your own, but a version of the completed scripts are also uploaded in the 'Final Scripts' folder.
+Besides the manual pdf, you only need to download the TeleportReticle folder to your unity project, as described by the manual.
